@@ -1,0 +1,183 @@
+*************************************************************
+FileName = [MZCAT_commutation_board_RPI]_Gerber_2025-03-30.GBR
+AutoAperture = True
+*************************************************************
+<<<<<<< HEAD
+Generating : Top Solder
+      File : [MZCAT_commutation_board_RPI]_Gerber_2025-03-30.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+=======
+>>>>>>> 613e14270cc375eb23a491e7e857863a29f37ea3
+Generating : Mechanical 1
+      File : [MZCAT_commutation_board_RPI]_Gerber_2025-03-30.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D36
+<<<<<<< HEAD
+=======
+    D37
+    D38
+    D39
+    D40
+>>>>>>> 613e14270cc375eb23a491e7e857863a29f37ea3
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : [MZCAT_commutation_board_RPI]_Gerber_2025-03-30.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Board Layer Stack Bottom Solder
+      File : [MZCAT_commutation_board_RPI]_Gerber_2025-03-30.GBS
+
+    Adding Layer      : Board Layer Stack Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D35
+*************************************************************
+
+*************************************************************
+<<<<<<< HEAD
+Generating : Top Layer
+      File : [MZCAT_commutation_board_RPI]_Gerber_2025-03-30.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+=======
+>>>>>>> 613e14270cc375eb23a491e7e857863a29f37ea3
+Generating : Board Layer Stack Bottom Overlay
+      File : [MZCAT_commutation_board_RPI]_Gerber_2025-03-30.GBO
+
+    Adding Layer      : Board Layer Stack Bottom Overlay
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : [MZCAT_commutation_board_RPI]_Gerber_2025-03-30.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+<<<<<<< HEAD
+=======
+*************************************************************
+Generating : Top Solder
+      File : [MZCAT_commutation_board_RPI]_Gerber_2025-03-30.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : [MZCAT_commutation_board_RPI]_Gerber_2025-03-30.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+*************************************************************
+
+>>>>>>> 613e14270cc375eb23a491e7e857863a29f37ea3

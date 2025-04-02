@@ -1,0 +1,12 @@
+Output: Сверловка
+Type  : NC Drill
+From  : PCB Document [MZCAT_backlight_board.PcbDoc]
+   Generated File[[MZCAT_backlight_board]_NC Drill_2025-03-30.TXT]
+   Generated File[[MZCAT_backlight_board]_NC Drill_2025-03-30.LDP]
+   Generated File[[MZCAT_backlight_board]_NC Drill_2025-03-30.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 15:57:24 On 30.03.2025

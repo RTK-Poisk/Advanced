@@ -1,0 +1,16 @@
+Output: Сверловка
+Type  : NC Drill
+From  : PCB Document [MZCAT_color_sensor.PcbDoc]
+   Generated File[[MZCAT_color_sensor]_NC Drill_2025-03-30.TXT]
+   Generated File[[MZCAT_color_sensor]_NC Drill_2025-03-30.LDP]
+   Generated File[[MZCAT_color_sensor]_NC Drill_2025-03-30.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+<<<<<<< HEAD
+Finished Output Generation At 15:47:50 On 30.03.2025
+=======
+Finished Output Generation At 15:43:59 On 30.03.2025
+>>>>>>> 613e14270cc375eb23a491e7e857863a29f37ea3

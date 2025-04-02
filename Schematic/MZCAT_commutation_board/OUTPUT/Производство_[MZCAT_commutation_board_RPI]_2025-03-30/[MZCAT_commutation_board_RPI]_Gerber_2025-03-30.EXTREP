@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------------------
+<<<<<<< HEAD
+Gerber File Extension Report For: [MZCAT_commutation_board_RPI]_Gerber_2025-03-30.GBR   30.03.2025  15:39:22
+=======
+Gerber File Extension Report For: [MZCAT_commutation_board_RPI]_Gerber_2025-03-30.GBR   30.03.2025  15:44:10
+>>>>>>> 613e14270cc375eb23a491e7e857863a29f37ea3
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
+.GBS                Board Layer Stack Bottom Solder         
+.GBO                Board Layer Stack Bottom Overlay        
+.GM1                Mechanical 1                            
+------------------------------------------------------------------------------------------

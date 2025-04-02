@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: MZCAT_motherboard.PcbDoc   01.04.2025  21:58:59
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : [MZCAT_motherboard_RPI]_NC Drill_2025-04-01-RoundHoles.TXT
+ASCII SlotHoles File : [MZCAT_motherboard_RPI]_NC Drill_2025-04-01-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             492       PTH        1832.46mm (72.14inch)
+T2      0.5mm (20mil)                                             Round             59        PTH        384.74mm (15.15inch)
+T3      0.5mm (20mil)                                             Slot              4         PTH        55.18mm (2.17inch)
+T4      0.6mm (24mil)                                             Slot              8         PTH        100.94mm (3.97inch)
+T5      0.7mm (28mil)                                             Round             12        PTH        102.30mm (4.03inch)
+T6      0.762mm (30mil)                                           Round             6         PTH        72.52mm (2.86inch)
+T7      1mm (39mil)                                               Round             37        PTH        237.13mm (9.34inch)
+T8      1.2mm (47mil)                                             Round             7         PTH        25.40mm (1.00inch)
+T9      3.8mm (150mil)                                            Round             2         PTH        31.00mm (1.22inch)
+T10     4.2mm (165mil)                                            Round             3         PTH        91.22mm (3.59inch)
+T11     0.75mm (30mil)                                            Round             2         NPTH       9.65mm (0.38inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              632
+
+Total Processing Time (hh:mm:ss) : 00:00:00

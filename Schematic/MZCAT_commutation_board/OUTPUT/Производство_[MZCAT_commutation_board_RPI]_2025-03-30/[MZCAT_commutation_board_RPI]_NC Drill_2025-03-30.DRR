@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+<<<<<<< HEAD
+NCDrill File Report For: MZCAT_commutation_board.PcbDoc   30.03.2025  15:39:23
+=======
+NCDrill File Report For: MZCAT_commutation_board.PcbDoc   30.03.2025  15:44:11
+>>>>>>> 613e14270cc375eb23a491e7e857863a29f37ea3
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : [MZCAT_commutation_board_RPI]_NC Drill_2025-03-30.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             75        PTH        233.92mm (9.21inch)
+T2      0.6mm (24mil)                                             Round             2         PTH        2.01mm (0.08inch)
+T3      3.2mm (126mil)                                            Round             4         PTH        80.95mm (3.19inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              81
+
+Total Processing Time (hh:mm:ss) : 00:00:00

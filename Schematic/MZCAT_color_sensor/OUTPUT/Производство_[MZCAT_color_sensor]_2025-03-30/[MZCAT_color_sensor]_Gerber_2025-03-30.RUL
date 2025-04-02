@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+DRC Rules Export File for PCB: C:\Users\FRZNMN\Documents\ÐÀÁÎÒÀ\MZCAT_2024_boards\MZCAT_color_sensor\MZCAT_color_sensor.PcbDoc
+=======
+DRC Rules Export File for PCB: C:\Users\Public\Documents\Altium\Projects\MZCAT_2024_boards\MZCAT_color_sensor\MZCAT_color_sensor.PcbDoc
+>>>>>>> 613e14270cc375eb23a491e7e857863a29f37ea3
+RuleKind=MinimumAnnularRing|RuleName=min_pad_ar_std|Scope=Board|Minimum=7.87
+RuleKind=MinimumAnnularRing|RuleName=min_via_ar_std|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=solder_mask_expansion_std|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=width_18um_std|Scope=Board|Minimum=4.92
+RuleKind=Clearance|RuleName=clearance_inner_18um_std|Scope=Board|Minimum=4.92
+RuleKind=Clearance|RuleName=clearance_outer_18um_std|Scope=Board|Minimum=4.92
+RuleKind=Clearance|RuleName=REF_GND|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=TOP_BOT_GND|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Clearance_keepout|Scope=Board|Minimum=4.92

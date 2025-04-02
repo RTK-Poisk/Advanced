@@ -1,0 +1,13 @@
+Output: Сверловка
+Type  : NC Drill
+From  : PCB Document [MZCAT_motherboard.PcbDoc]
+   Generated File[[MZCAT_motherboard_RPI]_NC Drill_2025-04-01-RoundHoles.TXT]
+   Generated File[[MZCAT_motherboard_RPI]_NC Drill_2025-04-01-SlotHoles.TXT]
+   Generated File[[MZCAT_motherboard_RPI]_NC Drill_2025-04-01.LDP]
+   Generated File[[MZCAT_motherboard_RPI]_NC Drill_2025-04-01.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 21:58:59 On 01.04.2025

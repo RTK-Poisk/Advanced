@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: [MZCAT_motherboard_RPI]_Gerber_2025-04-01.GBR   01.04.2025  21:58:57
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.G1                 Ref Top                                 
+.G2                 Layer 2                                 
+.G3                 Layer 3                                 
+.G4                 Ref Bot                                 
+.GBL                Bottom Layer                            
+.GBS                Board Layer Stack Bottom Solder         
+.GBO                Board Layer Stack Bottom Overlay        
+.GM1                Mechanical 1                            
+------------------------------------------------------------------------------------------

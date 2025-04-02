@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=BMS_bat_fe.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=BMS_bat_fe.SchDoc|FileName=BMS_cells.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=BMS_bat_fe.SchDoc|FileName=BMS_controller.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=BMS_bat_fe.SchDoc|FileName=BMS_main.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=BMS_bat_fe.SchDoc|FileName=BMS_peripherial.SchDoc|SheetNumber=2
