@@ -1,0 +1,10 @@
+Output: Импорт спецификации в Odoo
+Type  : BOM
+From  : Variant [[No Variations]] of Project [MZCAT_commutation_board_RPI.PrjPcb]
+   Generated File[Импорт спецификации в Odoo_designation[MZCAT_commutation_board_RPI]_2025-04-08(11-09).xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:09:56 On 08.04.2025

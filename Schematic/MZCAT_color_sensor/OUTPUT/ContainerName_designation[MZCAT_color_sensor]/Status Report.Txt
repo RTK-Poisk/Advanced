@@ -1,0 +1,10 @@
+Output: Импорт спецификации в Odoo
+Type  : BOM
+From  : Variant [[No Variations]] of Project [MZCAT_color_sensor.PrjPcb]
+   Generated File[Импорт спецификации в Odoo_designation[MZCAT_color_sensor]_2025-04-08(11-09).xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:09:42 On 08.04.2025
